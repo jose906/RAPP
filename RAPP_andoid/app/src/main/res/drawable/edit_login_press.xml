@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <solid
+        android:color="@color/prueba"
+        />
+    <gradient
+        android:endColor="@color/white"
+        android:startColor="@color/white"
+        android:centerColor="@color/white"
+
+        />
+
+    <stroke
+        android:width="5dp"
+        android:color="@color/prueba"
+
+        />
+    <corners
+        android:radius="35dp"
+
+        />
+
+
+</shape>

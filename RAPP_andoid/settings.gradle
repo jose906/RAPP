@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven {url "https://jitpack.io"}
+
+    }
+
+
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+
+        maven {url "https://jitpack.io"}
+        maven { url "https://jcenter.bintray.com" }
+        mavenCentral()
+
+    }
+    
+}
+rootProject.name = "RAPP"
+include ':app'

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragmnets.Formulario">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:src="@mipmap/logo_horizontal_positivo"
+            android:layout_margin="25dp"
+
+            android:contentDescription="@string/fpp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/formulario"
+            android:textSize="30sp"
+            android:textColor="@color/azul"
+            android:textAlignment="center"
+            android:layout_marginBottom="15dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/nombre"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/nombre"
+            android:textSize="17sp"
+            android:autofillHints="name"
+            android:inputType="text"
+            android:textColor="@color/azul"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/apellido"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/apellido"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:inputType="text"
+            android:autofillHints="name" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/ci"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/num_ci"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:inputType="text"
+
+            android:importantForAutofill="no" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/nacionalidad"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/nacionalidad"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:inputType="text"
+            android:importantForAutofill="no" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/fecha_lugar"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/fecha_lugar"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:importantForAutofill="no"
+            android:inputType="text" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/telefono"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/telefono"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:importantForAutofill="no"
+            android:inputType="number"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/domicilio"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/domicilio"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:importantForAutofill="no"
+            android:inputType="text" />
+
+
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:id="@+id/spinner"
+            android:textAlignment="center"
+            android:textSize="15sp"
+
+
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/select_edit"
+            android:hint="@string/correo"
+            android:textColorHint="@color/azul"
+            android:textAlignment="center"
+            android:id="@+id/correo"
+            android:textSize="15sp"
+            android:textColor="@color/azul"
+            android:importantForAutofill="no"
+            android:inputType="text"
+            />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            >
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/propio_denuncia"
+                android:textColor="@color/azul"
+                android:buttonTint="@color/azul"
+                android:textSize="15sp"
+                android:id="@+id/rb1"
+                />
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nombre_otra"
+                android:textColor="@color/azul"
+                android:buttonTint="@color/azul"
+                android:textSize="15sp"
+                android:id="@+id/rb2"
+                />
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            >
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/azul"
+                android:buttonTint="@color/azul"
+                android:text="@string/libertad"
+                android:textSize="15sp"
+                android:id="@+id/rb3"
+                />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/azul"
+                android:buttonTint="@color/azul"
+                android:text="@string/privada"
+                android:textSize="15sp"
+                android:id="@+id/rb4"
+                />
+
+        </RadioGroup>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check1"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:id="@+id/check1"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check2"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check2"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check3"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check3"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check4"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check4"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check5"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check5"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check6"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check6"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check7"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check7"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check8"
+            android:textColor="@color/azul"
+            android:buttonTint="@color/azul"
+            android:layout_margin="5dp"
+            android:textSize="15sp"
+            android:id="@+id/check8"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="@string/explique"
+            android:layout_margin="10dp"
+            android:textColor="@color/azul"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/select_edit"
+            android:id="@+id/textoGrande"
+            android:textAlignment="viewStart"
+            android:inputType="textMultiLine"
+            android:lines="8"
+            android:gravity="top|start"
+            android:maxLines="10"
+            android:scrollbars="vertical"
+            android:importantForAutofill="no"
+            android:paddingStart="15dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="@string/detalle"
+            android:layout_margin="10dp"
+            android:textColor="@color/azul"
+
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/select_edit"
+            android:id="@+id/textoGrande2"
+            android:inputType="textMultiLine"
+            android:textAlignment="viewStart"
+            android:lines="8"
+            android:gravity="top|start"
+            android:maxLines="10"
+            android:scrollbars="vertical"
+            android:importantForAutofill="no"
+            android:paddingStart="15dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="10dp"
+
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="30dp"
+
+            android:id="@+id/select_file"
+
+            />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_login"
+            android:textColor="@color/white"
+            android:text="@string/enviar"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="30dp"
+            android:id="@+id/enviar"
+            />
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</FrameLayout>

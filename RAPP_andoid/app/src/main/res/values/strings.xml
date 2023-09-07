@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">RAPP</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="inicio">Inicio</string>
+    <string name="consultorio">Consultorio juridico</string>
+    <string name="denuncias">Denuncias</string>
+    <string name="Capacitacion">Capacitacion</string>
+    <string name="estadisticas">Estadisticas</string>
+    <string name="quienes">Quienes somos?</string>
+    <string name="infografias">Infografias</string>
+    <string name="login">Login</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="cuenta">No tienes una cuenta</string>
+    <string name="nombre">Nombre</string>
+    <string name="registrate">Registrate</string>
+    <string name="internacional">Legal Internacional</string>
+    <string name="nacional">Legal Nacional</string>
+    <string name="apellido">Apellido</string>
+    <string name="ci">Numero de CI</string>
+    <string name="nacionalidad">Nacionalidad</string>
+    <string name="telefono">Telefono</string>
+    <string name="observatorio">Observatorio</string>
+    <string name="domicilio">Direccion Domicilio</string>
+    <string name="correo">Correo electronico</string>
+    <string name="fpp">Fundacion Para el Periodismo</string>
+    <string name="fecha_lugar">Fecha y lugar de naciomiento</string>
+    <string name="formulario">Formulario de denuncias</string>
+    <string name="propio_denuncia">Esta denuncia la presento en nombre propio</string>
+    <string name="nombre_otra">Nombre de otra persona</string>
+    <string name="libertad">La presunta victima se encuentra en libertad</string>
+    <string name="privada">o privada de libertad</string>
+    <string name="check1">Ataques y amenazas a periodistas y medios de Comunicación</string>
+    <string name="check2">Agresiones físicas, tortura, secuestro, detención arbitraria, incautación de equipos</string>
+    <string name="check3">Expresiones públicas de intimidación y estigmatización por parte de funcionarios públicos</string>
+    <string name="check4">Uso abusivo del poder y la fuerza pública</string>
+    <string name="check5">Procesos penales, civiles y administrativos contra periodistas o medios de comunicación</string>
+    <string name="check6">Falta o restricciones indebidas al acceso a la información pública</string>
+    <string name="check7">Violencia o restricciones a la libertad de expresión en contextos de conflictos sociales</string>
+    <string name="check8">Otras formas de restricción a la libertad de expresión y el trabajo de la prensa</string>
+    <string name="foro">Foro</string>
+    <string name="talleres">talleres</string>
+    <string name="conservatorio">conservatorio</string>
+    <string name="explique">Explique brevemente, en orden cronológico, los hechos y circunstancias de las presuntas violaciones, así como las fechas y lugares. Incluya todos los aspectos que puedan ser de interés para la evaluación de su caso particular, así como identifique a los autores de la supuesta violación. Explique de qué manera considera que los hechos y las circunstancias descritos han vulnerado sus derechos</string>
+    <string name="detalle">Detalle por favor la Información sobre las acciones legales tomadas, instancias judiciales o autoridades del Estado a las que se acudió para denunciar o reclamar las violaciones alegadas, si lo hizo; así como indique si presentó algún recurso judicial o alguna comunicación a algún organismo internacional de protección de los derechos humanos.</string>
+    <string name="enviar">Enviar</string>
+    <string name="youtube">Videos</string>
+    <string name="coperantes">Coperantes</string>
+    <string name="aliados">aliados</string>
+    <string name="notas">Notas</string>
+    <string name="boletines">Boletines</string>
+    <string name="proyectofpp">Este es un proyecto de la Fundacion Para el Periodismo</string>
+    <string name="cpe">Artículo 21. Las bolivianas y los bolivianos tienen los siguientes derechos:\n\n
+
+        1. A la autoidentificación cultural.\n
+        2. A la privacidad, intimidad, honra, honor, propia imagen y dignidad.\n
+        3. A la libertad de pensamiento, espiritualidad, religión y culto, expresados en forma individual o colectiva, tanto en público como en privado, con fines lícitos.\n
+        4. A la libertad de reunión y asociación, en forma pública y privada, con fines lícitos.\n
+
+
+        Artículo 106.\n
+
+        I. El Estado garantiza el derecho a la comunicación y el derecho a la información.\n
+        II. El Estado garantiza a las bolivianas y los bolivianos el derecho a la libertad de expresión, de opinión y de información, a la rectificación y a la réplica, y el derecho a emitir libremente las ideas por cualquier medio de difusión, sin censura previa.\n
+        III. El Estado garantiza a las trabajadoras y los trabajadores de la prensa, la libertad de expresión, el derecho a la comunicación y a la información.\n
+        IV. Se reconoce la cláusula de conciencia de los trabajadores de la información\n
+
+        Artículo 107.\n
+
+        I. Los medios de comunicación social deberán contribuir a la promoción de los valores éticos, morales y cívicos de las diferentes culturas del país, con la producción y difusión de programas educativos plurilingües y en lenguaje alternativo para discapacitados.\n
+        II. La información y las opiniones emitidas a través de los medios de comunicación social deben respetar los principios de veracidad y responsabilidad. Estos principios se ejercerán mediante las normas de ética y de autorregulación de las organizaciones de periodistas y medios de comunicación y su ley.\n
+        III. Los medios de comunicación social no podrán conformar, de manera directa o indirecta, monopolios u oligopolios.\n
+        IV. El Estado apoyará la creación de medios de comunicación comunitarios en igualdad de condiciones y oportunidades.\n
+
+        Artículo 130.\n
+
+        I. Toda persona individual o colectiva que crea estar indebida o ilegalmente impedida de conocer, objetar u obtener la eliminación o rectificación de los datos registrados por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos públicos o privados, o que afecten a su derecho fundamental a la intimidad y privacidad personal o familiar, o a su propia imagen, honra y reputación, podrá interponer la Acción de Protección de Privacidad.\n
+        II. La Acción de Protección de Privacidad no procederá para levantar el secreto en materia de prensa.</string>
+    <string name="articulo19">Artículo 19\n\n
+        Todo individuo tiene derecho a la libertad de opinión y de expresión;
+        este derecho incluye el de no ser molestado a causa de sus opiniones,
+        el de investigar y recibir informaciones y opiniones,
+        y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.</string>
+    <string name="articulo192">
+        Artículo 19\n\n
+
+        1. Nadie podrá ser molestado a causa de sus opiniones.\n
+        2. Toda persona tiene derecho a la libertad de expresión; este derecho comprende la libertad de buscar,
+        recibir y difundir informaciones e ideas de toda índole, sin consideración de fronteras,
+        ya sea oralmente, por escrito o en forma impresa o artística, o por cualquier otro procedimiento de su elección.\n
+        3. El ejercicio del derecho previsto en el párrafo 2 de este artículo entraña deberes y
+        responsabilidades especiales. Por consiguiente, puede estar sujeto a ciertas restricciones,
+        que deberán, sin embargo, estar expresamente fijadas por la ley y ser necesarias para:\n
+        a) Asegurar el respeto a los derechos o a la reputación de los demás;\n
+        b) La protección de la seguridad nacional, el orden público o la salud o la moral públicas.\n
+    </string>
+    <string name="nnuu">
+        1. La presente observación general reemplaza a la Observación general Nº 10 (19º período de sesiones).\n
+        2. La libertad de opinión y la libertad de expresión son condiciones indispensables
+        \para el pleno desarrollo de la persona. Son fundamentales para toda sociedad y constituyen
+        la piedra angular de todas las sociedades libres y democráticas. Ambas libertades están
+        estrechamente relacionadas entre sí, dado que la libertad de expresión constituye el medio para intercambiar
+        y formular opiniones.\n</string>
+    <string name="articulo4">
+        Artículo 4 - Derecho de libertad de investigación, opinión, expresión y difusión\n\n
+        Toda persona tiene derecho a la libertad de investigación, de opinión y de expresión y
+        difusión del pensamiento por cualquier medio. Derecho de libertad de investigación,
+        opinión, expresión y difusión.</string>
+    <string name="articulo13">
+        Artículo 13. Libertad de Pensamiento y de Expresiónn\n\n
+
+1. Toda persona tiene derecho a la libertad de pensamiento y de expresión. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole, sin consideración de fronteras, ya sea oralmente, por escrito o en forma impresa o artística, o por cualquier otro procedimiento de su elección.
+2. El ejercicio del derecho previsto en el inciso precedente no puede estar sujeto a previa censura sino a responsabilidades ulteriores, las que deben estar expresamente fijadas por la ley y ser necesarias para asegurar:
+
+a) el respeto a los derechos o a la reputación de los demás, o
+b) la protección de la seguridad nacional, el orden público o la salud o la moral públicas.
+
+3. No se puede restringir el derecho de expresión por vías o medios indirectos, tales como el abuso de controles oficiales o particulares de papel para periódicos, de frecuencias radioeléctricas, o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios encaminados a impedir la comunicación y la circulación de ideas y opiniones.
+4. Los espectáculos públicos pueden ser sometidos por la ley a censura previa con el exclusivo objeto de regular el acceso a ellos para la protección moral de la infancia y la adolescencia, sin perjuicio de lo establecido en el inciso 2.
+5. Estará prohibida por la ley toda propaganda en favor de la guerra y toda apología del odio nacional, racial o religioso que constituyan incitaciones a la violencia o cualquier otra acción ilegal similar contra cualquier persona o grupo de personas, por ningún motivo, inclusive los de raza, color, religión, idioma u origen nacional.
+    </string>
+    <string name="articulo42">Artículo 4
+
+Son componentes fundamentales del ejercicio de la democracia la transparencia de las actividades gubernamentales, la probidad, la responsabilidad de los gobiernos en la gestión pública, el respeto por los derechos sociales y la libertad de expresión y de prensa.
+
+La subordinación constitucional de todas las instituciones del Estado a la autoridad civil legalmente constituida y el respeto al estado de derecho de todas las entidades y sectores de la sociedad son igualmente fundamentales para la democracia.</string>
+    <string name="principios">PRINCIPIOS
+
+1. La libertad de expresión, en todas sus formas y manifestaciones, es un derecho fundamental e inalienable, inherente a todas las personas. Es, además, un requisito indispensable para la existencia misma de una sociedad democrática.</string>
+    <string name="principio1">Principio 1
+
+La libertad de expresión, en todas sus formas y manifestaciones, es un derecho fundamental e inalienable, inherente a todas las personas. Es, además, un requisito indispensable para la existencia misma de una sociedad democrática.</string>
+
+    <string-array name="ciudades">
+        <item>Seleccione la ciudad</item>
+        <item>La Paz</item>
+        <item>Oruro</item>
+        <item>Potosi</item>
+        <item>Tarija</item>
+        <item>Sucre</item>
+        <item>Cochabamba</item>
+        <item>El Alto</item>
+        <item>Santa Cruz</item>
+        <item>Beni</item>
+        <item>Pando</item>
+        <item>Otro pais</item>
+    </string-array>
+    <string name="somos">Quienes somos</string>
+    <string name="nosotros">
+        La Red de Apoyo Para Periodistas  es un plataforma de la Fundación laa el Periodismo que tiene el apoyo de UNCESCO.\n
+        RAPP busca un contexto más seguro y favorable para el ejercicio del periodismo. RAPP plantea que la ciudadanía y especialmente las instituciones del Estado, entiendan, valoren y respeten el rol del periodismo en la sociedad y la democracia. RAPP proyectará capacitaciones para fortalecer las capacidades de las y los periodistas.\n
+        La UNESCO es la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. La UNESCO trata de establecer la paz mediante la cooperación internacional en materia de educación, ciencia y cultura. Los programas de la UNESCO contribuyen al logro de los objetivos de desarrollo sostenible definidos en el Programa 2030, aprobado por la Asamblea General de las Naciones Unidas en 2015.\n
+        La Fundación para el Periodismo es una organización sin fines de lucro comprometida con la sociedad, la democracia y los derechos humanos. Su capacidad de gestión y excelencia académica le permite promover la formación de profesionales calificados dentro de los más altos principios éticos.\n
+        RAPP – Red de Apoyo Para Periodistas\n
+        Proyecto de la Fundación para el Periodismo\n
+        Dirección:\n
+        Renán Estenssoro\n
+        Coordinación:\n
+        Isabel Mercado Heredia\n
+        Tania Frank Torrez\n
+        Asesoria Jurídica:\n
+        Ramiro Orias</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
